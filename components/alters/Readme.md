@@ -1,0 +1,3 @@
+# Alerts
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean in magna nec risus iaculis malesuada. Praesent non ipsum est. Vivamus a ipsum vestibulum, sollicitudin nulla sed, finibus neque. Donec ut porttitor leo, non elementum justo. Curabitur ut magna facilisis, commodo nibh sed, egestas est. Aliquam condimentum imperdiet pharetra. Quisque porttitor hendrerit nunc nec tempus. Curabitur suscipit egestas diam sed tincidunt. Phasellus sit amet fringilla nulla, sed ultricies dui. Duis dictum hendrerit volutpat.
